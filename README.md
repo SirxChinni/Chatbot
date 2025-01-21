@@ -29,9 +29,3 @@ Here are some sample questions you can ask the chatbot:
 - **Frontend**: React
 - **Backend**: Node.js
 - **Database**: MySQL
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
